@@ -115,9 +115,8 @@ If you wish to ride a scooter, you can rent one. We have had good experiences re
 #### Taxis
 You can also flag any taxis down by waving your hand (you will know if a taxi is available if the light on top of the taxi is lit). Taxis can be scammy, they might try to hack the clock to make you pay more. That’s why Grab is a recommended mode of transportation since you know the price before you go. That being said, here are some taxis branch I trust more than others:
 - Mai Linh
-![image](https://github.com/lycb/curated-list/assets/32417800/0ca2ce6c-b558-4a36-99e2-86fb26399193)
 - Vinasun
-![image](https://github.com/lycb/curated-list/assets/32417800/dc00d53c-69e8-4f99-8555-7948a752a350)
+- Xanh SM
 
 ### Food 🤤
 **Key**
