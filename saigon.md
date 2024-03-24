@@ -53,7 +53,8 @@ This is a map of Saigon by district.
 - For `Purpose of entry`, put "Tourism"
 - For `Religion`, I'm not exactly sure why Vietnam requires this field but you're safe to simply put “None” if you feel uncomfortable providing it.
 
-> [!WARNING] This type of visa is only good for 30 days, so do not book your flight for longer than 30 days. Unless you plan on exiting the country and come back with a new visa.
+> [!WARNING]
+> This type of visa is only good for 30 days, so do not book your flight for longer than 30 days. Unless you plan on exiting the country and come back with a new visa.
 ### Communications 📱
 It is **strongly recommended** to get a SIM card for data usage. Here are some options:
 - [Get a prepaid SIM card in Vietnam](https://wanderingwheatleys.com/best-vietnam-sim-card-tourist-prepaid-mobile-internet/) (only for unlocked phones)
