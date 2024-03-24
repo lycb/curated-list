@@ -83,8 +83,10 @@ It is **strongly recommended** to get a SIM card for data usage. Here are some o
 // TODO
 
 ## Traveling within HCMC
-> [!IMPORTANT] Take a picture of your passport to avoid risk of pickpocketing
-Always keep your valuables in front of you, not behind where pickpocketing can happen easily
+> [!IMPORTANT]
+> Take a picture of your passport to avoid risk of pickpocketing.
+> 
+> Always keep your valuables in front of you, not behind where pickpocketing can happen easily
 
 ### Weather ☀️☀️☀️☀️🌧
 // TODO
