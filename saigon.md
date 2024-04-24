@@ -62,7 +62,8 @@ It is **strongly recommended** to get a SIM card for data usage. Here are some o
 - [e-SIM in Vietnam](https://vietnamdiscovery.com/vietnam-esim/) for people with Iphone 14+
 
 ### Apps for transportation needs 🚙📱
-// TODO
+- [Grab](https://www.grab.com/sg/)
+- [Xanh SM](https://www.xanhsm.com/en/)
 
 ### Medical Preparations 🫀
 
