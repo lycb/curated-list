@@ -1,4 +1,6 @@
-# Ho Chi Minh city/Saigon Recommendations (Last updated April 24, 2024)
+# Ho Chi Minh city/Saigon Recommendations 
+
+(Last updated April 24, 2024)
 
 This list is curated by me and my sister (who lives in HCMC permanently). I visit once a year and changes this list whenever I go. 
 
