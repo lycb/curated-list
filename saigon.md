@@ -1,6 +1,6 @@
 # Ho Chi Minh city/Saigon Recommendations 
 
-(Last updated April 24, 2024)
+(Last updated May 2, 2024)
 
 This list is curated by me and my sister (who lives in HCMC permanently). I visit once a year and changes this list whenever I go. 
 
@@ -24,7 +24,13 @@ This list is curated by me and my sister (who lives in HCMC permanently). I visi
 - Exchange money
 
 ### Book flights ✈️
-// TODO
+
+> [!NOTE]
+> This section only contains tips for flying from the United States only.
+
+- I usually use [Google Flights](https://www.google.com/travel/flights) and [KAYAK](https://www.kayak.com/#) to look at tickets
+- Typical price point for tickets from smaller cities on the East Coast are around $1200-2500 per person round trip in Economy
+- Book with at least 2 hours overlay, 2.5 hours overlay is usually the sweet spot (if you book < 2 hours, you have about a high chance of having to run to reach the gate on time)
 
 ### Booking a hotel 🏨
 This is a map of Saigon by district. 
