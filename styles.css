@@ -169,6 +169,34 @@ a:hover {
   font-weight: 400;
 }
 
+.home-page main {
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.home-sections {
+  display: grid;
+  gap: 28px;
+}
+
+.home-card {
+  padding: 28px;
+  border-radius: 20px;
+  background: rgb(224 242 244 / 92%);
+  box-shadow: 10px 12px 0 rgb(181 70 106 / 28%);
+}
+
+.home-card h2 {
+  margin-top: 0;
+}
+
+.home-card ul {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
 .page-nav {
   margin-bottom: 32px;
 }

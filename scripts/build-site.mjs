@@ -156,6 +156,23 @@ function renderTableOfContents(headings) {
       </aside>`;
 }
 
+function renderHomeContent(content) {
+  const titleMatch = content.match(/^\s*(<h1\b[^>]*>[\s\S]*?<\/h1>)\s*/);
+  if (!titleMatch) {
+    return `<section class="home-card">${content}</section>`;
+  }
+
+  const title = titleMatch[1];
+  const sections = content
+    .slice(titleMatch[0].length)
+    .split(/(?=<h2\b)/)
+    .filter((section) => section.trim())
+    .map((section) => `<section class="home-card">${section}</section>`)
+    .join("\n");
+
+  return `${title}<div class="home-sections">${sections}</div>`;
+}
+
 function template({ title, content, headings, isHome, homeHref }) {
   return `<!doctype html>
 <html lang="en">
@@ -171,7 +188,7 @@ function template({ title, content, headings, isHome, homeHref }) {
       ${isHome ? "" : renderTableOfContents(headings)}
       <main>
         ${isHome ? "" : `<nav class="page-nav"><a href="${homeHref}">← Curated list</a></nav>`}
-        <article>${content}</article>
+        <article>${isHome ? renderHomeContent(content) : content}</article>
       </main>
     </div>
   </body>
