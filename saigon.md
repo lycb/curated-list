@@ -93,9 +93,33 @@ These locations can help you exchange money:
 * Banks (Vietinbank, Vietcombank, Agribank, BIDV, ABC, HSBC, etc.)  
 * Some Jewelry stores
 
-## Arriving at HCMC 🛬
-
 ## Traveling within HCMC 🌃🌆
+
+- [Weather](#weather)
+- [Tap water](#tap-water)
+- [Currency](#currency)
+- [Transportation](#transportation)
+- [Food](#food)
+- [Western cuisine](#western-cuisine)
+- [Vietnamese cuisine](#vietnamese-cuisine)
+- [Other Asian cuisines](#other-asian-cuisines-call-in-advance-to-book)
+- [Drinking](#drinking)
+- [Popular drinks brands/types](#popular-drinks-brandstypes-you-can-get-at-convenience-stores)
+- [Bar](#bar-call-in-advance-to-book)
+- [Pub/Brewery-esk vibe](#pubbrewery-esk-vibe-call-in-advance-to-book)
+- [Club](#club-call-in-advance-to-book)
+- [Entertainment](#entertainment)
+- [Shopping](#shopping)
+- [Sight-seeing](#sight-seeing)
+- [Temple](#temple)
+- [Churches](#churches)
+- [Historical sites](#historical-sites)
+- [Fun atmospheric places](#fun-atmospheric-places)
+- [Tours](#tours)
+- [Social norms and etiquette](#social-norms-and-etiquette)
+- [Grab/Green SM](#grabgreen-sm)
+- [How to book a car or moped](#how-to-book-a-car-or-moped)
+- [How to get food delivered](#how-to-get-food-delivered)
 
 ‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
@@ -112,17 +136,17 @@ These locations can help you exchange money:
 
 ---
 
-### 1. Weather ☀️☀️☀️🌧
+### Weather ☀️☀️☀️🌧
 
 Weather **IS HOT AND HUMID 🔥 🔥**  
 Bring one light jacket if you must, but pack summer clothes because you will be sweating  
 The UV index is also very high because we are near the equator. Vietnamese tend to wear long sleeves to avoid UV rays and wear LOTS of sunscreen. I recommend doing the same ([UNIQLO](https://www.uniqlo.com/eu/en/content/uv-women.html) has UV clothing that is very light and breathable and it keeps you cool) 
 
-### 2. Tap water 🚰
+### Tap water 🚰
 
 Drinking tap water is **NOT** safe. This link sums it up pretty well, please read carefully as it contains important health information: [https://backofthebiketours.com/can-i-drink-water-in-vietnam/](https://backofthebiketours.com/can-i-drink-water-in-vietnam/) 
 
-### 3. Currency 💵
+### Currency 💵
 
 Vietnam uses the VND currency (Vietnam Đồng). No, đồng (dong) is not poop, it means “coin”. And yes, John had already made the joke 💩🤦
 
@@ -131,7 +155,7 @@ Currently, \$1 USD is about 26,500 VND. But that’s really hard to remember rig
 For example: 500,000 VND is about \$25 USD because 500,000 VND / 20,000 VND \= \$25 USD 
 
 <a id="apps-for-transportation-needs"></a>
-### 4. Transportation 🚗
+### Transportation 🚗
 
 [Grab](#bookmark=kix.ciffa796uv9c) (mostly gas vehicles) or [Green SM](https://www.greensm.com/vn-en) (only electric vehicles)  will be your main mode of transportation. You can book a car or a moped from your phone and pay with cash when you arrive at your destination. The total amount will appear before you book your ride so you can prepare the cash beforehand. 
 
@@ -147,7 +171,7 @@ You can also flag any taxis down by waving your hand (you will know if a taxi is
 **Vinasun taxis**  
 ![][image4]
 
-### 5. Food 👄
+### Food 👄
 
 ‼️ Because your body is not used to the cultural bacteria in Vietnam, it is strongly recommended that you take a probiotic packet every day to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
@@ -228,7 +252,7 @@ A lot of recommendations below have multiple locations, you can just google the 
   * Worth checking out for the experience and the food is good.  
   * Good wine selection
 
-### 6. Drinking 🍺🍸🍷🍹
+### Drinking 🍺🍸🍷🍹
 
 **Drinking age is 18+ (for anyone interested** 😆**)**  
 Be careful going into crazy clubs, the cops like to check on the clubs sometimes and if they find illegal drugs (even not on your body), you will most likely be stuck at the club for a while. Minimum of 3 hours for a casual check; you have to have your ID with you, best to take a picture of your passport and keep it on your phone. 
@@ -299,7 +323,7 @@ Get checked sometimes by the cops, so be careful (have your passport on your pho
   * Well-known  
   * Famous
 
-### 7. Entertainment 🎉
+### Entertainment 🎉
 
 * Internet cafes (don’t go to just any internet cafes since a lot of them are not very clean)  
   * [Win.D Gaming 2 Bình Thạnh](https://www.google.com/maps/place/Win.D+Gaming+2+B%C3%ACnh+Th%E1%BA%A1nh/data=!4m2!3m1!19sChIJqa6pYbwpdTERhANoj_6r11c)  
@@ -314,7 +338,7 @@ Get checked sometimes by the cops, so be careful (have your passport on your pho
     * [\+84 789 240 240](https://www.google.com/search?q=gigamall+bowlin&client=firefox-b-d&biw=1670&bih=970&tbm=lcl&sxsrf=AJOqlzVCUJFSsLORnPyekyTEH78fo-jVgw%3A1675867510259&ei=drXjY5q9D7SqqtsPiO-UoAc&ved=0ahUKEwia0I79lIb9AhU0lWoFHYg3BXQQ4dUDCAg&uact=5&oq=gigamall+bowlin&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgkIABAWEB4Q8QQyBggAEBYQHjIJCAAQFhAeEPEEMgkIABAWEB4Q8QQyBQgAEIYDMgUIABCGAzIFCAAQhgM6BAgjECc6BQgAEJECOgsIABCABBCxAxCDAToICAAQgAQQsQM6CAgAELEDEJECOgcIABCxAxBDOgQIABBDOgQIABADOgoIABCABBAUEIcCOgoIABCABBCxAxAKOgcIABCABBAKOgcIABANEIAEOgsIABAWEB4Q8QQQClD_kQRYnaoEYP2rBGgDcAB4AIABsAGIAY0NkgEEMTYuM5gBAKABAcABAQ&sclient=gws-wiz-local#) (call ahead)  
       
 
-### 8. Shopping 🛒🤑
+### Shopping 🛒🤑
 
 **Because you are foreigners, people will try to haggle you**. If they try to speak to you when you are just walking by their stores, just shake your head no and keep walking. 
 
@@ -329,7 +353,7 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 * Local stores (maybe can bargain)  
   * Nguyen Trai street has a lot of stores you can walk around but you cannot bargain in these stores
 
-### 9. Sight-seeing 👀✨💖
+### Sight-seeing 👀✨💖
 
 ### Temple
 
@@ -370,7 +394,7 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 
 [TripAdvisor recommended tours](https://www.tripadvisor.com/Attractions-g293925-Activities-c42-Ho_Chi_Minh_City.html)
 
-### 10. Social Norms and Etiquette
+### Social Norms and Etiquette
 
 [https://factsanddetails.com/southeast-asia/Vietnam/sub5\_9c/entry-3386.html](https://factsanddetails.com/southeast-asia/Vietnam/sub5_9c/entry-3386.html)
 
@@ -389,7 +413,7 @@ If you haven’t already, download Grab or Green SM to your phone
 
 [https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app](https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app) 
 
-### Traveling to other cities 🌃🌆
+## Traveling to other cities 🌃🌆
 
 There are lots of destinations that you can travel to. My personal favorites are Nha Trang, Hoi An, Phu Quoc
 
