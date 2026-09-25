@@ -95,19 +95,6 @@ These locations can help you exchange money:
 
 ## Traveling within HCMC 🌃🌆
 
-- [Weather](#weather)
-- [Tap water](#tap-water)
-- [Currency](#currency)
-- [Transportation](#transportation)
-- [Food](#food)
-- [Drinking](#drinking)
-- [Entertainment](#entertainment)
-- [Shopping](#shopping)
-- [Sight-seeing](#sight-seeing)
-- [Tours](#tours)
-- [Social norms and etiquette](#social-norms-and-etiquette)
-- [Grab/Green SM (similar to Uber)](#grabgreen-sm)
-
 > [!IMPORTANT]
 >‼️ Take a picture of your passport to avoid risk of pickpocketing.
 > Always keep your valuables in front of you, not behind where pickpocketing can happen easily.
