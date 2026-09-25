@@ -166,7 +166,24 @@ a:hover {
 }
 
 .home-page h1 {
-  font-weight: 400;
+  width: fit-content;
+  margin: -0.12em 0 32px -0.08em;
+  padding: 0.12em 0.08em 0.2em;
+  background: linear-gradient(
+    90deg,
+    #e9688b 0%,
+    #d7a52f 50%,
+    #398f91 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-size: clamp(3rem, 10vw, 5.5rem);
+  font-weight: 600;
+  letter-spacing: -0.06em;
+  line-height: 1.15;
+  white-space: nowrap;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .home-page main {
@@ -289,5 +306,12 @@ pre code {
   main {
     padding: 32px 22px;
     border-radius: 18px;
+  }
+}
+
+@media (max-width: 520px) {
+  .home-page h1 {
+    margin-bottom: 24px;
+    font-size: clamp(2.25rem, 12vw, 4rem);
   }
 }
