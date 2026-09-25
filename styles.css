@@ -24,9 +24,23 @@ body {
   background-attachment: fixed;
 }
 
-main {
-  width: min(900px, 100%);
+.page-layout {
+  display: grid;
+  grid-template-columns: minmax(190px, 240px) minmax(0, 900px);
+  gap: 24px;
+  align-items: start;
+  justify-content: center;
+  width: min(1240px, 100%);
   margin: 0 auto;
+}
+
+.page-layout-home {
+  display: block;
+  width: min(900px, 100%);
+}
+
+main {
+  width: 100%;
   padding: 48px;
   border: 2px solid #bad6da;
   border-radius: 24px;
@@ -95,11 +109,58 @@ a:hover {
   background: #ffe797;
 }
 
+.table-of-contents {
+  position: sticky;
+  top: 24px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+  padding: 22px 18px;
+  border: 2px solid #bad6da;
+  border-radius: 18px;
+  background: rgb(224 242 244 / 92%);
+  box-shadow: 0 16px 48px rgb(77 93 97 / 14%);
+}
+
+.toc-title {
+  margin: 0 0 12px;
+  color: #f791a9;
+  font-weight: 700;
+}
+
+.table-of-contents nav,
+.table-of-contents ul {
+  margin: 0;
+  padding: 0;
+}
+
+.table-of-contents ul {
+  list-style: none;
+}
+
+.table-of-contents li {
+  padding: 4px 0;
+  line-height: 1.35;
+}
+
+.table-of-contents a {
+  font-size: 0.9rem;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.toc-level-3 {
+  margin-left: 14px;
+}
+
+.toc-level-4 {
+  margin-left: 28px;
+}
+
 .home-page h1 {
   font-weight: 400;
 }
 
-nav {
+.page-nav {
   margin-bottom: 32px;
 }
 
@@ -160,6 +221,18 @@ pre {
 pre code {
   padding: 0;
   background: transparent;
+}
+
+@media (max-width: 900px) {
+  .page-layout {
+    display: block;
+  }
+
+  .table-of-contents {
+    position: static;
+    max-height: none;
+    margin-bottom: 16px;
+  }
 }
 
 @media (max-width: 600px) {

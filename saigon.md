@@ -109,18 +109,8 @@ These locations can help you exchange money:
 - [Grab/Green SM (similar to Uber)](#grabgreen-sm)
 
 > [!IMPORTANT]
->‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
-
-* **My sister’s recommendations:**  
-  * Gas-X   
-  * Probiotic  
-  * Pepto-Bismol / Diarrhea Antibiotic  
-  * Tylenol / Aspirin  
-  * Your prescriptions  
-* **Practice safe food consumption,** **avoid eating at street vendors and raw food**
-
-**Take a picture of your passport to avoid risk of pickpocketing**  
-**Always keep your valuables in front of you, not behind where pickpocketing can happen easily**
+>‼️ Take a picture of your passport to avoid risk of pickpocketing.
+> Always keep your valuables in front of you, not behind where pickpocketing can happen easily.
 
 ---
 
@@ -163,6 +153,14 @@ You can also flag any taxis down by waving your hand (you will know if a taxi is
 
 > [!NOTE]
 > Because your body is not used to the cultural bacteria in Vietnam, it is strongly recommended that you take a probiotic packet every day to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
+
+* **My sister’s recommendations:**  
+  * Gas-X   
+  * Probiotic  
+  * Pepto-Bismol / Diarrhea Antibiotic  
+  * Tylenol / Aspirin  
+  * Your prescriptions  
+* **Practice safe food consumption,** **avoid eating at street vendors and raw food**
 
 **Price conversion – to the best of our knowledge**  
 \$ ultra-cheap  

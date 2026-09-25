@@ -87,6 +87,7 @@ function rewriteMarkdownLink(href) {
 
 function renderMarkdown(markdown) {
   const usedSlugs = new Map();
+  const headings = [];
   const parser = new Marked({
     gfm: true,
     walkTokens(token) {
@@ -104,15 +105,25 @@ function renderMarkdown(markdown) {
         usedSlugs.set(baseSlug, count + 1);
         const slug = count === 0 ? baseSlug : `${baseSlug}-${count}`;
 
+        if (depth >= 2 && depth <= 4) {
+          headings.push({
+            depth,
+            label: text.replace(/<[^>]+>/g, ""),
+            slug
+          });
+        }
+
         return `<h${depth} id="${slug}">${text}</h${depth}>\n`;
       }
     }
   });
 
-  return parser.parse(markdown).replace(
+  const content = parser.parse(markdown).replace(
     /<blockquote>\s*<p>\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*/g,
     (_, kind) => `<blockquote class="alert alert-${kind.toLowerCase()}"><p><strong>${kind[0]}${kind.slice(1).toLowerCase()}</strong><br>`
   );
+
+  return { content, headings };
 }
 
 function slugify(value) {
@@ -128,7 +139,24 @@ function slugify(value) {
     .replace(/^-|-$/g, "") || "section";
 }
 
-function template({ title, content, isHome, homeHref }) {
+function renderTableOfContents(headings) {
+  if (headings.length === 0) {
+    return "";
+  }
+
+  const items = headings.map(({ depth, label, slug }) =>
+    `<li class="toc-level-${depth}"><a href="#${slug}">${label}</a></li>`
+  ).join("\n");
+
+  return `<aside class="table-of-contents" aria-label="Table of contents">
+        <p class="toc-title">On this page</p>
+        <nav>
+          <ul>${items}</ul>
+        </nav>
+      </aside>`;
+}
+
+function template({ title, content, headings, isHome, homeHref }) {
   return `<!doctype html>
 <html lang="en">
   <head>
@@ -139,10 +167,13 @@ function template({ title, content, isHome, homeHref }) {
     <style>${styles}</style>
   </head>
   <body class="${isHome ? "home-page" : ""}">
-    <main>
-      ${isHome ? "" : `<nav><a href="${homeHref}">← Curated list</a></nav>`}
-      <article>${content}</article>
-    </main>
+    <div class="page-layout${isHome ? " page-layout-home" : ""}">
+      ${isHome ? "" : renderTableOfContents(headings)}
+      <main>
+        ${isHome ? "" : `<nav class="page-nav"><a href="${homeHref}">← Curated list</a></nav>`}
+        <article>${content}</article>
+      </main>
+    </div>
   </body>
 </html>
 `;
@@ -167,11 +198,13 @@ for (const file of markdownFiles) {
   const outputRelativePath = path.relative(outputDirectory, outputPath);
   const homeRelativePath = path.relative(path.dirname(outputRelativePath), "index.html");
   const isHome = relativePath.toLowerCase() === "readme.md";
+  const { content, headings } = renderMarkdown(markdown);
 
   await fs.mkdir(path.dirname(outputPath), { recursive: true });
   await fs.writeFile(outputPath, template({
     title: pageTitle(markdown, relativePath),
-    content: renderMarkdown(markdown),
+    content,
+    headings,
     isHome,
     homeHref: homeRelativePath.replaceAll("\\", "/") || "./index.html"
   }));
