@@ -95,7 +95,7 @@ These locations can help you exchange money:
 
 ## Arriving at HCMC 🛬
 
-## **Traveling within HCMC 🌃🌆**
+## Traveling within HCMC 🌃🌆
 
 ‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
@@ -208,7 +208,7 @@ A lot of recommendations below have multiple locations, you can just google the 
   * Different kinds of dishes  
   * Call ahead
 
-### Other Asian cuisines 🍣🍱 \- **Call in advance to book**
+### Other Asian cuisines 🍣🍱 - Call in advance to book
 
 * [Phổ Đình Thảo Điền - Uraetei Yakiniku](https://www.google.com/maps/place/Ph%E1%BB%95+%C4%90%C3%ACnh+Th%E1%BA%A3o+%C4%90i%E1%BB%81n+-+Uraetei+Yakiniku/data=!4m2!3m1!19sChIJG_SBHxEmdTERhtk1WFopKwo) Japanese BBQ \$\$   
   * English-speaking  
@@ -239,7 +239,7 @@ Heineken
 Tiger  
 Soju 
 
-### **Bar**  \- **Call in advance to book**
+### Bar - Call in advance to book
 
 * [Warning Zone 223](https://www.google.com/maps/place/Warning+Zone+223/data=!4m2!3m1!19sChIJU-rQFqMvdTERuVbHgRQO0a0) \$\$  
   * Multiple locations, just look up “Warning Zone”  
@@ -268,7 +268,7 @@ Soju
   * Call in advance   
   * Recommend: order food to pair with sake, it’s always better to pair sake with food
 
-### **Pub/Brewery-esk Vibe**  \- **Call in advance to book**
+### Pub/Brewery-esk Vibe - Call in advance to book
 
 * [Social Local, Beer N' Bite](https://www.google.com/maps/place/Social+Local,+Beer+N'+Bite/data=!4m2!3m1!19sChIJg5-O0yovdTERlh4M4Nwtr54) \$  
   * MIGHT BE English-speaking  
@@ -279,7 +279,7 @@ Soju
   * Well known in Vietnam for their craft beer  
   * Jasmin IPA is their best seller
 
-### **Club**  \- **Call in advance to book**
+### Club - Call in advance to book
 
 Get checked sometimes by the cops, so be careful (have your passport on your phone)
 
@@ -376,7 +376,7 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 
 Don’t worry too much about what’s listed in the link, but in case you are interested. 
 
-### **Grab/Green SM** 🚗
+### Grab/Green SM 🚗
 
 ‼️**Prerequisites**: Need phone data to do this ‼️  
 If you haven’t already, download Grab or Green SM to your phone
@@ -389,7 +389,7 @@ If you haven’t already, download Grab or Green SM to your phone
 
 [https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app](https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app) 
 
-### **Traveling to other cities 🌃🌆**
+### Traveling to other cities 🌃🌆
 
 There are lots of destinations that you can travel to. My personal favorites are Nha Trang, Hoi An, Phu Quoc
 
