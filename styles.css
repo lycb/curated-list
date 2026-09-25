@@ -231,6 +231,15 @@ blockquote > :last-child {
   border-left-color: #65b8c2;
 }
 
+.alert > p:first-child > strong:first-child {
+  display: inline-block;
+  color: transparent;
+  background: linear-gradient(90deg, #f791a9 0%, #e2ad25 50%, #65b8c2 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .alert-important {
   border-left-color: #f791a9;
 }

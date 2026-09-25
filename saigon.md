@@ -228,7 +228,7 @@ A lot of recommendations below have multiple locations, you can just google the 
 
 ### Drinking 🍺🍸🍷🍹
 
-> NOTE
+> [!NOTE]
 > Drinking age is 18+ (for anyone interested 😆)
 
 #### Bar
