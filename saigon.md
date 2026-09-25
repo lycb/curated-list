@@ -1,22 +1,17 @@
-# **💯💯Saigon Survival Guide💯💯**
+# Ho Chi Minh city/Saigon Recommendations
 
-Updated: Jun 9, 2026
+(last updated: September 25, 2026)
 
-# ![][image1]
+This list is curated by me and my sister (who lives in HCMC permanently). I visit once a year and changes this list whenever I go.
 
-*(desktop version only) Please click this icon on the TOP LEFT CORNER of this doc for ease of navigation* 
+> [!IMPORTANT]
+> This is meant as a guide for short term visits. Long term stay does not apply.
 
-### Abbreviations in this doc
+**Abbreviations for this doc**
+- _HCMC_ - Ho Chi Minh City
+- _AYCE_ - All you can eat
 
-#### **HCMC** \- Ho Chi Minh City 
-
-#### **AYCE** \- All you can eat
-
-### **Disclaimer**
-
-**You are in charge of your own selves, practice safe traveling guidance, and protect your valuables. This guide is just to help you navigate HCMC**
-
-# **Prerequisites 🚥**
+## Prerequisites 🚥
 
 - [ ] [Make sure you have a passport](https://travel.state.gov/content/travel/en/passports/how-apply.html)  
 - [ ] Make sure your passport is **not expired**‼️ **(Make sure the expiration date is not close to travel dates)**  
@@ -30,7 +25,7 @@ Updated: Jun 9, 2026
 - [ ] [Exchange money](#bookmark=kix.gcyuwauwcwks)  
 - [ ] Check out this [Google Map](https://www.google.com/maps/d/u/1/viewer?mid=15zc41l-TbijnqpntHoQ4KC5OLUo9O8s&ll=10.792145310777645%2C106.69836420000003&z=13) of things recommended and important locations
 
-## Booking a flight ✈️🛬🌎
+### Booking a flight ✈️🛬🌎
 
 * Book round trip  
 * I usually use Google flights to look at ticketsTypical price point for tickets from Charlotte, NC, USA are \$1200-1300 per person  
@@ -38,7 +33,7 @@ Updated: Jun 9, 2026
 * For Japan overlay:  
   * Make sure you **DON’T** have airport transfer from Narita to Haneda airport because that has happened to me before (i.e. don’t arrive in NRT and leave from HND \= bus transfer) 
 
-## Booking a hotel 🏨
+### Booking a hotel 🏨
 
 (\*) We will only cover recommendations in Ho Chi Minh City in this section
 
@@ -59,7 +54,7 @@ GOOD NEWS\! Vietnam is really cheap to stay in, there are some options for you:
   * District 1 has the most restaurants, bars, and shopping within walking distance  
   * District 2 has more English-speaking activities / restaurants![][image2]
 
-## Applying for the visa ✈️📄
+### Applying for the visa ✈️📄
 
 Link to visa application: [https://evisa.xuatnhapcanh.gov.vn/web/guest/khai-thi-thuc-dien-tu/cap-thi-thuc-dien-tu](https://evisa.xuatnhapcanh.gov.vn/web/guest/khai-thi-thuc-dien-tu/cap-thi-thuc-dien-tu) 
 
@@ -72,7 +67,7 @@ Should be self-explanatory, but some points to note:
 5) For how many days you intend to stay there, you can put up to 30 days if you are unsure of how many days you plan on staying there. If your visa runs out, you will need to request a new visa.   
 6) You will pay \$25 as a fee at the end (this was updated price point in 2023). You will also get an email with this confirmation. 
 
-## Using your phone ☎️📱
+### Using your phone ☎️📱
 
 You can:
 
@@ -81,7 +76,7 @@ You can:
   * SIM card can be purchased at the airport  
 * Talk to your service provider about using your phone in Vietnam
 
-## Medical Preparations
+### Medical Preparations
 
 * Ask your doctor about available vaccinations for Vietnam  
 * Bring your prescriptions   
@@ -89,7 +84,7 @@ You can:
 * Get probiotics (can get more in Vietnam)  
 * [CDC guidelines to travel to VN](https://wwwnc.cdc.gov/travel/destinations/traveler/none/vietnam) 
 
-## Exchange Money 💰
+### Exchange Money 💰
 
 These locations can help you exchange money:
 
@@ -97,7 +92,7 @@ These locations can help you exchange money:
 * Banks (Vietinbank, Vietcombank, Agribank, BIDV, ABC, HSBC, etc.)  
 * Some Jewelry stores
 
-# **Traveling within HCMC 🌃🌆**
+### **Traveling within HCMC 🌃🌆**
 
 ‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
@@ -114,17 +109,17 @@ These locations can help you exchange money:
 
 ---
 
-1. ## Weather ☀️☀️☀️🌧
+### 1. Weather ☀️☀️☀️🌧
 
 Weather **IS HOT AND HUMID 🔥 🔥**  
 Bring one light jacket if you must, but pack summer clothes because you will be sweating  
 The UV index is also very high because we are near the equator. Vietnamese tend to wear long sleeves to avoid UV rays and wear LOTS of sunscreen. I recommend doing the same ([UNIQLO](https://www.uniqlo.com/eu/en/content/uv-women.html) has UV clothing that is very light and breathable and it keeps you cool) 
 
-2. ## Tap water 🚰
+### 2. Tap water 🚰
 
 Drinking tap water is **NOT** safe. This link sums it up pretty well, please read carefully as it contains important health information: [https://backofthebiketours.com/can-i-drink-water-in-vietnam/](https://backofthebiketours.com/can-i-drink-water-in-vietnam/) 
 
-3. ## Currency 💵
+### 3. Currency 💵
 
 Vietnam uses the VND currency (Vietnam Đồng). No, đồng (dong) is not poop, it means “coin”. And yes, John had already made the joke 💩🤦
 
@@ -132,7 +127,7 @@ Currently, \$1 USD is about 26,500 VND. But that’s really hard to remember rig
 
 For example: 500,000 VND is about \$25 USD because 500,000 VND / 20,000 VND \= \$25 USD 
 
-4. ## Transportation 🚗
+### 4. Transportation 🚗
 
 [Grab](#bookmark=kix.ciffa796uv9c) (mostly gas vehicles) or [Green SM](https://www.greensm.com/vn-en) (only electric vehicles)  will be your main mode of transportation. You can book a car or a moped from your phone and pay with cash when you arrive at your destination. The total amount will appear before you book your ride so you can prepare the cash beforehand. 
 
@@ -148,7 +143,7 @@ You can also flag any taxis down by waving your hand (you will know if a taxi is
 **Vinasun taxis**  
 ![][image4]
 
-5. ## Food 👄
+### 5. Food 👄
 
 ‼️ Because your body is not used to the cultural bacteria in Vietnam, it is strongly recommended that you take a probiotic packet every day to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
@@ -229,12 +224,12 @@ A lot of recommendations below have multiple locations, you can just google the 
   * Worth checking out for the experience and the food is good.  
   * Good wine selection
 
-6. ## Drinking 🍺🍸🍷🍹
+### 6. Drinking 🍺🍸🍷🍹
 
 **Drinking age is 18+ (for anyone interested** 😆**)**  
 Be careful going into crazy clubs, the cops like to check on the clubs sometimes and if they find illegal drugs (even not on your body), you will most likely be stuck at the club for a while. Minimum of 3 hours for a casual check; you have to have your ID with you, best to take a picture of your passport and keep it on your phone. 
 
-#### Popular drinks brands/types you can get at convenience stores
+### Popular drinks brands/types you can get at convenience stores
 
 Heineken   
 Tiger  
@@ -300,7 +295,7 @@ Get checked sometimes by the cops, so be careful (have your passport on your pho
   * Well-known  
   * Famous
 
-7. ## Entertainment 🎉
+### 7. Entertainment 🎉
 
 * Internet cafes (don’t go to just any internet cafes since a lot of them are not very clean)  
   * [Win.D Gaming 2 Bình Thạnh](https://www.google.com/maps/place/Win.D+Gaming+2+B%C3%ACnh+Th%E1%BA%A1nh/data=!4m2!3m1!19sChIJqa6pYbwpdTERhANoj_6r11c)  
@@ -315,7 +310,7 @@ Get checked sometimes by the cops, so be careful (have your passport on your pho
     * [\+84 789 240 240](https://www.google.com/search?q=gigamall+bowlin&client=firefox-b-d&biw=1670&bih=970&tbm=lcl&sxsrf=AJOqlzVCUJFSsLORnPyekyTEH78fo-jVgw%3A1675867510259&ei=drXjY5q9D7SqqtsPiO-UoAc&ved=0ahUKEwia0I79lIb9AhU0lWoFHYg3BXQQ4dUDCAg&uact=5&oq=gigamall+bowlin&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBQgAEIAEMgkIABAWEB4Q8QQyBggAEBYQHjIJCAAQFhAeEPEEMgkIABAWEB4Q8QQyBQgAEIYDMgUIABCGAzIFCAAQhgM6BAgjECc6BQgAEJECOgsIABCABBCxAxCDAToICAAQgAQQsQM6CAgAELEDEJECOgcIABCxAxBDOgQIABBDOgQIABADOgoIABCABBAUEIcCOgoIABCABBCxAxAKOgcIABCABBAKOgcIABANEIAEOgsIABAWEB4Q8QQQClD_kQRYnaoEYP2rBGgDcAB4AIABsAGIAY0NkgEEMTYuM5gBAKABAcABAQ&sclient=gws-wiz-local#) (call ahead)  
       
 
-8. ## Shopping 🛒🤑
+### 8. Shopping 🛒🤑
 
 **Because you are foreigners, people will try to haggle you**. If they try to speak to you when you are just walking by their stores, just shake your head no and keep walking. 
 
@@ -330,7 +325,7 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 * Local stores (maybe can bargain)  
   * Nguyen Trai street has a lot of stores you can walk around but you cannot bargain in these stores
 
-9. ## Sight-seeing 👀✨💖
+### 9. Sight-seeing 👀✨💖
 
 ### Temple
 
@@ -371,26 +366,26 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 
 [TripAdvisor recommended tours](https://www.tripadvisor.com/Attractions-g293925-Activities-c42-Ho_Chi_Minh_City.html)
 
-10. ## Social Norms and Etiquette
+### 10. Social Norms and Etiquette
 
 [https://factsanddetails.com/southeast-asia/Vietnam/sub5\_9c/entry-3386.html](https://factsanddetails.com/southeast-asia/Vietnam/sub5_9c/entry-3386.html)
 
 Don’t worry too much about what’s listed in the link, but in case you are interested. 
 
-# **Grab/Green SM** 🚗
+### **Grab/Green SM** 🚗
 
 ‼️**Prerequisites**: Need phone data to do this ‼️  
 If you haven’t already, download Grab or Green SM to your phone
 
-## How to book a car or moped
+### How to book a car or moped
 
 [https://www.youtube.com/watch?v=UMl\_Jq-JXXk](https://www.youtube.com/watch?v=UMl_Jq-JXXk)
 
-## How to get food delivered
+### How to get food delivered
 
 [https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app](https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app) 
 
-# **Traveling to other cities 🌃🌆**
+### **Traveling to other cities 🌃🌆**
 
 There are lots of destinations that you can travel to. My personal favorites are Nha Trang, Hoi An, Phu Quoc
 
@@ -427,7 +422,7 @@ By plane: 1 hour
 
 * Islands
 
-## Other cool cities that I haven’t been to but want to
+### Other cool cities that I haven’t been to but want to
 
 * Ha Long Bay  
 * Sapa
