@@ -1,0 +1,11 @@
+{
+  "name": "curated-list",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs"
+  },
+  "dependencies": {
+    "marked": "16.3.0"
+  }
+}
