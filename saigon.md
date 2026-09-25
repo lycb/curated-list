@@ -100,28 +100,16 @@ These locations can help you exchange money:
 - [Currency](#currency)
 - [Transportation](#transportation)
 - [Food](#food)
-- [Western cuisine](#western-cuisine)
-- [Vietnamese cuisine](#vietnamese-cuisine)
-- [Other Asian cuisines](#other-asian-cuisines-call-in-advance-to-book)
 - [Drinking](#drinking)
-- [Popular drinks brands/types](#popular-drinks-brandstypes-you-can-get-at-convenience-stores)
-- [Bar](#bar-call-in-advance-to-book)
-- [Pub/Brewery-esk vibe](#pubbrewery-esk-vibe-call-in-advance-to-book)
-- [Club](#club-call-in-advance-to-book)
 - [Entertainment](#entertainment)
 - [Shopping](#shopping)
 - [Sight-seeing](#sight-seeing)
-- [Temple](#temple)
-- [Churches](#churches)
-- [Historical sites](#historical-sites)
-- [Fun atmospheric places](#fun-atmospheric-places)
 - [Tours](#tours)
 - [Social norms and etiquette](#social-norms-and-etiquette)
-- [Grab/Green SM](#grabgreen-sm)
-- [How to book a car or moped](#how-to-book-a-car-or-moped)
-- [How to get food delivered](#how-to-get-food-delivered)
+- [Grab/Green SM (similar to Uber)](#grabgreen-sm)
 
-‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
+> [!IMPORTANT]
+>‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
 * **My sister’s recommendations:**  
   * Gas-X   
@@ -173,7 +161,8 @@ You can also flag any taxis down by waving your hand (you will know if a taxi is
 
 ### Food 👄
 
-‼️ Because your body is not used to the cultural bacteria in Vietnam, it is strongly recommended that you take a probiotic packet every day to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
+> [!NOTE]
+> Because your body is not used to the cultural bacteria in Vietnam, it is strongly recommended that you take a probiotic packet every day to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
 **Price conversion – to the best of our knowledge**  
 \$ ultra-cheap  
@@ -254,21 +243,18 @@ A lot of recommendations below have multiple locations, you can just google the 
 
 ### Drinking 🍺🍸🍷🍹
 
-**Drinking age is 18+ (for anyone interested** 😆**)**  
-Be careful going into crazy clubs, the cops like to check on the clubs sometimes and if they find illegal drugs (even not on your body), you will most likely be stuck at the club for a while. Minimum of 3 hours for a casual check; you have to have your ID with you, best to take a picture of your passport and keep it on your phone. 
+> NOTE
+> Drinking age is 18+ (for anyone interested 😆)
 
-### Popular drinks brands/types you can get at convenience stores
+#### Bar
 
-Heineken   
-Tiger  
-Soju 
-
-### Bar - Call in advance to book
+> [!NOTE]
+> Call in advance to book a table
 
 * [Warning Zone 223](https://www.google.com/maps/place/Warning+Zone+223/data=!4m2!3m1!19sChIJU-rQFqMvdTERuVbHgRQO0a0) \$\$  
   * Multiple locations, just look up “Warning Zone”  
   * Can drink a lot of beer here  
-  * Snacks\!\!\!  
+  * Snacks!!! 
   * Should be English speaking but I’m unsure  
 * [Layla - Eatery & Bar](https://www.google.com/maps/place/Layla+-+Eatery+%26+Bar/data=!4m2!3m1!19sChIJ69mAX0YvdTERKz-HPFntDZc) \$\$   
   * English-speaking  
@@ -292,7 +278,10 @@ Soju
   * Call in advance   
   * Recommend: order food to pair with sake, it’s always better to pair sake with food
 
-### Pub/Brewery-esk Vibe - Call in advance to book
+#### Pub/Brewery-esk Vibe 
+
+> [!NOTE]
+> Call in advance to book a table
 
 * [Social Local, Beer N' Bite](https://www.google.com/maps/place/Social+Local,+Beer+N'+Bite/data=!4m2!3m1!19sChIJg5-O0yovdTERlh4M4Nwtr54) \$  
   * MIGHT BE English-speaking  
@@ -303,9 +292,10 @@ Soju
   * Well known in Vietnam for their craft beer  
   * Jasmin IPA is their best seller
 
-### Club - Call in advance to book
+#### Club 
 
-Get checked sometimes by the cops, so be careful (have your passport on your phone)
+> [!NOTE]
+> Call in advance to book a table. Get inspected sometimes by the cops, so be careful (have your passport on your phone)
 
 * [Bam Bam](https://www.google.com/maps/place/Bam+Bam/data=!4m2!3m1!19sChIJhQAitW4vdTER8GD4Mxw2HSA) \$\$    
   * Cool-hip place where all the Gen Z hang out  
@@ -355,19 +345,19 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 
 ### Sight-seeing 👀✨💖
 
-### Temple
+#### Temple
 
 * [Jade Emperor Pagoda](https://www.google.com/maps/place/Jade+Emperor+Pagoda/data=!4m2!3m1!19sChIJj1FhJSopdTERCasenGMjU4Q)  
 * [Minh Dang Quang Institute](https://www.google.com/maps/place/Minh+Dang+Quang+Institute/data=!4m2!3m1!19sChIJZ0cJ1tIndTERp7DZz5MJ1HU)  
 * [Thien Hau Pagoda](https://www.google.com/maps/place/Thien+Hau+Pagoda/data=!4m2!3m1!19sChIJU5jx0_YudTERl_Cqs-jwaiQ)  
 * And more
 
-### Churches
+#### Churches
 
 * [Notre Dame Cathedral of Saigon](https://www.google.com/maps/place/Notre+Dame+Cathedral+of+Saigon/data=!4m2!3m1!19sChIJUSTY5jcvdTERRVvtbJNZT-g) (might be under construction still but is a super cool place in the middle of the city)   
   * Very near [Sai Gon Central Post Office](https://www.google.com/maps/place/Sai+Gon+Central+Post+Office/data=!4m2!3m1!19sChIJRxocgI4udTERspsje3PV-LA) if you want to visit both
 
-### Historical sites
+#### Historical sites
 
 * [Sai Gon Central Post Office](https://www.google.com/maps/place/Sai+Gon+Central+Post+Office/data=!4m2!3m1!19sChIJRxocgI4udTERspsje3PV-LA) – has good sidewalk coffee right outside (according to my cousin lol)  
 * [Independence Palace](https://www.google.com/maps/place/Independence+Palace/data=!4m2!3m1!19sChIJL0dwVTgvdTERao3t8B1Jhxc) – Vietnam war history  
@@ -375,7 +365,7 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
   * Tens of thousands of miles of tunnels, including an extensive network running underneath the Cu Chi district northwest of Saigon  
   * This will need to be a half-a-day trip
 
-### Fun atmospheric places
+#### Fun atmospheric places
 
 * [Nguyen Hue Pedestrian Plaza](https://www.google.com/maps/place/Nguyen+Hue+Pedestrian+Plaza/data=!4m2!3m1!19sChIJMVAyx0YvdTER_itMkU3iJ7I) (day OR night) – I recommend night time for festivities and cooler weather  
 * [The Cafe Apartments](https://www.google.com/maps/place/The+Cafe+Apartments/data=!4m2!3m1!19sChIJY41T6kYvdTERS92294dJ1J4) – existed since the French rule (there are cute shops and coffee shops inside the building – it’s a bit dark and creepy but you might enjoy this “hidden” spot)  
@@ -383,10 +373,6 @@ General rule of thumb is if the price tag is visible, you can’t bargain. If yo
 * [Starlight Crescent Bridge](https://www.google.com/maps/place/Starlight+Crescent+Bridge/data=!4m2!3m1!19sChIJjYqemosvdTERPvDiDBh9TVQ)– District 7 (night time – pretty lights)  
 * [Bui Vien Walking Street](https://www.google.com/maps/place/Bui+Vien+Walking+Street/data=!4m2!3m1!19sChIJCdzLBRYvdTERpsMyNScNwPE) (lots of bars) 
 
-**I would avoid:** 
-
-* Ben Thanh Market (while this is a popular market, I would avoid going here because it’s no longer the same since COVID and people will try to scam you)  
-  * Edit June 2026: not sure about this anymore
 
 ### Tours
 
@@ -402,16 +388,12 @@ Don’t worry too much about what’s listed in the link, but in case you are in
 
 ### Grab/Green SM 🚗
 
-‼️**Prerequisites**: Need phone data to do this ‼️  
+> [!IMPORTANT]
+> **Prerequisites**: Need phone data to do this ‼️  
 If you haven’t already, download Grab or Green SM to your phone
 
-### How to book a car or moped
-
-[https://www.youtube.com/watch?v=UMl\_Jq-JXXk](https://www.youtube.com/watch?v=UMl_Jq-JXXk)
-
-### How to get food delivered
-
-[https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app](https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app) 
+- [How to book a car or moped](https://www.youtube.com/watch?v=UMl_Jq-JXXk)
+- [How to get food delivered](https://ride.guru/content/newsroom/grabfood-how-to-order-food-through-the-grab-app) 
 
 ## Traveling to other cities 🌃🌆
 
