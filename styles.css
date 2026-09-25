@@ -1,0 +1,164 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #ffdbdf;
+  color: #171515;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 48px 16px;
+  background:
+    radial-gradient(circle at 15% 20%, rgb(247 145 169 / 52%), transparent 38%),
+    radial-gradient(circle at 85% 80%, rgb(255 231 151 / 64%), transparent 34%),
+    linear-gradient(145deg, #ffdbdf 0%, #e0f2f4 100%);
+  background-attachment: fixed;
+}
+
+main {
+  width: min(900px, 100%);
+  margin: 0 auto;
+  padding: 48px;
+  border: 2px solid #bad6da;
+  border-radius: 24px;
+  background: rgb(224 242 244 / 92%);
+  box-shadow: 0 24px 80px rgb(77 93 97 / 18%);
+}
+
+article > :first-child {
+  margin-top: 0;
+}
+
+article > :last-child {
+  margin-bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.15;
+  scroll-margin-top: 24px;
+}
+
+h1 {
+  margin-bottom: 28px;
+  font-size: clamp(2.2rem, 8vw, 4rem);
+  letter-spacing: -0.06em;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 3px solid #bad6da;
+  font-size: 1.65rem;
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: 1.3rem;
+}
+
+p,
+li {
+  line-height: 1.7;
+}
+
+li {
+  padding: 3px 0;
+}
+
+a {
+  color: #171515;
+  font-weight: 700;
+  text-decoration-color: #f791a9;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 4px;
+}
+
+a:hover {
+  background: #ffe797;
+}
+
+nav {
+  margin-bottom: 32px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 16px;
+  box-shadow: 0 12px 36px rgb(77 93 97 / 18%);
+}
+
+blockquote {
+  margin: 24px 0;
+  padding: 12px 20px;
+  border-left: 6px solid #f791a9;
+  border-radius: 0 12px 12px 0;
+  background: rgb(255 255 255 / 55%);
+}
+
+blockquote > :first-child {
+  margin-top: 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.alert-note,
+.alert-tip {
+  border-left-color: #65b8c2;
+}
+
+.alert-important {
+  border-left-color: #f791a9;
+}
+
+.alert-warning,
+.alert-caution {
+  border-left-color: #e2ad25;
+  background: rgb(255 231 151 / 42%);
+}
+
+code {
+  padding: 0.15em 0.35em;
+  border-radius: 5px;
+  background: rgb(255 255 255 / 68%);
+}
+
+pre {
+  overflow-x: auto;
+  padding: 18px;
+  border-radius: 12px;
+  background: #171515;
+  color: #f8f8f2;
+}
+
+pre code {
+  padding: 0;
+  background: transparent;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 16px 8px;
+  }
+
+  main {
+    padding: 32px 22px;
+    border-radius: 18px;
+  }
+}
