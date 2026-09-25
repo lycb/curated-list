@@ -79,7 +79,7 @@ li {
 
 a {
   color: #171515;
-  font-weight: 700;
+  font-weight: 400;
   text-decoration-color: #f791a9;
   text-decoration-thickness: 4px;
   text-underline-offset: 4px;
@@ -89,8 +89,7 @@ a:hover {
   background: #ffe797;
 }
 
-.home-page h1,
-.home-page a {
+.home-page h1 {
   font-weight: 400;
 }
 
