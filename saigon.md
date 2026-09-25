@@ -93,7 +93,9 @@ These locations can help you exchange money:
 * Banks (Vietinbank, Vietcombank, Agribank, BIDV, ABC, HSBC, etc.)  
 * Some Jewelry stores
 
-### **Traveling within HCMC 🌃🌆**
+## Arriving at HCMC 🛬
+
+## **Traveling within HCMC 🌃🌆**
 
 ‼️ Because your body is not used to the cultural bacteria in Vietnam, it is **strongly recommended** that you take a probiotic packet **daily** to prevent stomach aches and diarrhea. If you run out, you can easily get more at local pharmacies ‼️
 
