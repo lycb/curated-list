@@ -13,18 +13,18 @@ This list is curated by me and my sister (who lives in HCMC permanently). I visi
 
 ## Prerequisites 🚥
 
-- [ ] [Make sure you have a passport](https://travel.state.gov/content/travel/en/passports/how-apply.html)  
-- [ ] Make sure your passport is **not expired**‼️ **(Make sure the expiration date is not close to travel dates)**  
-- [ ] [Book flight ticket](#bookmark=kix.ti592xl4c1yb)  
-- [ ] [Book hotel](#bookmark=kix.up21v9dfqyf8) (for those staying at a hotel/Airbnb)  
-- [ ] [Check the COVID info](https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/)  
-- [ ] [Apply for the visa](#bookmark=kix.78yf37v36zfs)   
-- [ ] [Download Grab / Green SM (Vietnam’s Uber app)](#bookmark=kix.ciffa796uv9c)  
-- [ ] [Read guide on how to use your phone in Vietnam](#bookmark=kix.a8i6cxwg9xw3)  
-- [ ] [Medical preparations](#bookmark=kix.pl5mk285e6zz)  
-- [ ] [Exchange money](#bookmark=kix.gcyuwauwcwks)  
-- [ ] Check out this [Google Map](https://www.google.com/maps/d/u/1/viewer?mid=15zc41l-TbijnqpntHoQ4KC5OLUo9O8s&ll=10.792145310777645%2C106.69836420000003&z=13) of things recommended and important locations
+- [Make sure you have a passport](https://travel.state.gov/content/travel/en/passports/how-apply.html)
+- Make sure your passport is not expired
+- [Book flight](#book-flights)
+- [Book hotel](#booking-a-hotel)
+- [Check the COVID info](https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/)
+- [Apply for the visa](https://docs.google.com/document/d/1ZGOfeTm96hdIIYkg22cS1UxzV2cQ5jpS-bJPyIDVa64/edit#bookmark=id.eih1jbkgyujh)
+- [How to use your phone in Vietnam](#communications)
+- [Download apps for transportation needs](#apps-for-transportation-needs)
+- [Medical preparations](#medical-preparations)
+- Exchange money
 
+<a id="book-flights"></a>
 ### Booking a flight ✈️🛬🌎
 
 * Book round trip  
@@ -67,6 +67,7 @@ Should be self-explanatory, but some points to note:
 5) For how many days you intend to stay there, you can put up to 30 days if you are unsure of how many days you plan on staying there. If your visa runs out, you will need to request a new visa.   
 6) You will pay \$25 as a fee at the end (this was updated price point in 2023). You will also get an email with this confirmation. 
 
+<a id="communications"></a>
 ### Using your phone ☎️📱
 
 You can:
@@ -127,6 +128,7 @@ Currently, \$1 USD is about 26,500 VND. But that’s really hard to remember rig
 
 For example: 500,000 VND is about \$25 USD because 500,000 VND / 20,000 VND \= \$25 USD 
 
+<a id="apps-for-transportation-needs"></a>
 ### 4. Transportation 🚗
 
 [Grab](#bookmark=kix.ciffa796uv9c) (mostly gas vehicles) or [Green SM](https://www.greensm.com/vn-en) (only electric vehicles)  will be your main mode of transportation. You can book a car or a moped from your phone and pay with cash when you arrive at your destination. The total amount will appear before you book your ride so you can prepare the cash beforehand. 
