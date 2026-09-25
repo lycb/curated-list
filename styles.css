@@ -52,14 +52,20 @@ h4 {
 
 h1 {
   margin-bottom: 28px;
+  color: transparent;
   font-size: clamp(2.2rem, 8vw, 4rem);
   letter-spacing: -0.06em;
+  background: linear-gradient(90deg, #f791a9 0%, #e2ad25 50%, #65b8c2 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 h2 {
   margin-top: 2.5rem;
   padding-bottom: 0.35rem;
   border-bottom: 3px solid #bad6da;
+  color: #f791a9;
   font-size: 1.65rem;
 }
 
