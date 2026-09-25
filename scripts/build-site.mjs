@@ -138,7 +138,7 @@ function template({ title, content, isHome, homeHref }) {
     <title>${escapeHtml(title)}</title>
     <style>${styles}</style>
   </head>
-  <body>
+  <body class="${isHome ? "home-page" : ""}">
     <main>
       ${isHome ? "" : `<nav><a href="${homeHref}">← Curated list</a></nav>`}
       <article>${content}</article>
