@@ -26,11 +26,11 @@ body {
 
 .page-layout {
   display: grid;
-  grid-template-columns: minmax(190px, 240px) minmax(0, 900px);
+  grid-template-columns: minmax(240px, 300px) minmax(0, 900px);
   gap: 24px;
   align-items: start;
   justify-content: center;
-  width: min(1240px, 100%);
+  width: min(1300px, 100%);
   margin: 0 auto;
 }
 
@@ -113,10 +113,15 @@ a:hover {
   top: 24px;
   max-height: calc(100vh - 48px);
   overflow-y: auto;
+  scrollbar-width: none;
   padding: 22px 18px;
   border-radius: 18px;
   background: rgb(224 242 244 / 92%);
   box-shadow: 0 16px 48px rgb(181 70 106 / 26%);
+}
+
+.table-of-contents::-webkit-scrollbar {
+  display: none;
 }
 
 .toc-title {
@@ -142,6 +147,12 @@ a:hover {
 
 .table-of-contents a {
   font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.table-of-contents a:hover {
+  text-decoration: underline;
+  text-decoration-color: #f791a9;
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
 }
